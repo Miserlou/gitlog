@@ -10,8 +10,8 @@ This may be forensically useful for you.
 
 or..
 
-   $ python gitlog.py --repos ~/Projects/* --name "Frank N. Beans"
+    $ python gitlog.py --repos ~/Projects/* --name "Frank N. Beans"
 
 More information can be found by..
 
-   $ python gitlog.py --help 
+    $ python gitlog.py --help 
